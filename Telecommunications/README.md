@@ -1,6 +1,6 @@
 # Телекоммуникации
 
-[ipynb]()
+[ipynb](https://github.com/yaroslav-korobkov/Portfolio/blob/main/Telecommunications/telecommunications.ipynb)
 
 ## Описание проекта
 
