@@ -1,4 +1,4 @@
-# Улучшение процесса обогащения золота
+# Обучение модели классификации комментариев
 
 [ipynb](https://github.com/yaroslav-korobkov/Portfolio/blob/main/Toxic_comments/toxic_comments.ipynb)
 
