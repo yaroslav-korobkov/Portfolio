@@ -1,5 +1,5 @@
 # Множественная классификация обратной связи от пользователей службы доставки продуктов
-[ipynb](https://github.com/yaroslav-korobkov/Portfolio/blob/main/NLP_Samokat.tech/nlp_samokat.ipynb)
+Ссылка на Jupyter Notebook проекта: [ipynb](https://github.com/yaroslav-korobkov/Portfolio/blob/main/NLP_Samokat.tech/nlp_samokat.ipynb)
 
 ## Описание проекта
 
