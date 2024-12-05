@@ -1,6 +1,6 @@
 # Обучение модели классификации комментариев
 
-[ipynb](https://github.com/yaroslav-korobkov/Portfolio/blob/main/Toxic_comments/toxic_comments.ipynb)
+Ссылка на Jupyter Notebook проекта: [ipynb](https://github.com/yaroslav-korobkov/Portfolio/blob/main/Toxic_comments/toxic_comments.ipynb)
 
 ## Описание проекта
 
@@ -15,6 +15,9 @@
 - re
 - spacy
 - nltk
+- TF-IDF
+- LightGBM
+- CatBoost
 
 ## Общий вывод
 
