@@ -1,6 +1,6 @@
 # Телекоммуникации
 
-[ipynb](https://github.com/yaroslav-korobkov/Portfolio/blob/main/Telecommunications/telecommunications.ipynb)
+Ссылка на Jupyter Notebook проекта: [ipynb](https://github.com/yaroslav-korobkov/Portfolio/blob/main/Telecommunications/telecommunications.ipynb)
 
 ## Описание проекта
 
